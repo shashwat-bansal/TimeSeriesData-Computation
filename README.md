@@ -12,7 +12,7 @@ City
 This data contains time series data of user locations. Each observation captures location of the
 user at the given stamp.  
 Assumptions:  
-Person stays at the same place until you get the next observation from the user.  
+Person stays at the same place until next observation is received from the user.  
 
 Designed a system that processes this data and computes approximate average number of devices within a
 200m radius for every 10 minute time window.
