@@ -1,7 +1,7 @@
 # TimeSeriesData-Computation
 Data schema:  
 Location Index  
-Device ID 
+Device ID  
 Latitude    
 Longitude    
 Timestamp      
