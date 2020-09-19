@@ -9,7 +9,7 @@ Pin Code
 City  
 
 
-This is time series data of user locations. Each observation captures location of the
+This is time series data of user's location. Each observation captures location of the
 user at the given timestamp.  
 Assumptions:  
 Person stays at the same place until next observation is received from the user.  
