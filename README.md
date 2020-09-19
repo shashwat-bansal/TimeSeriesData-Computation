@@ -14,7 +14,7 @@ user at the given stamp.
 Assumptions:  
 Person stays at the same place until next observation is received from the user.  
 
-Designed a system that processes this data and computes approximate average number of devices within a
+Designed a system that processes this data and computes approximate average number of devices within
 200m radius for every 10 minute time window.
 
 The program takes 30 seconds to run on my local 8-core machine for 1.5 million data points.
